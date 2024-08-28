@@ -1,0 +1,11 @@
+Customer churn refers to the rate at which customers stop doing business with an entity.
+Predicting churn is crucial for businesses because retaining existing customers is often more cost-effective than acquiring new ones.
+In this file, I have build a churn prediction model using a simple artificial neural network (ANN).
+I have followed these steps for building a model
+* - Importing libraries
+2. Importing dataset
+3. Encoding categorical data
+4. Building an ANN model
+5. Compiling an ANN model
+6.Evaluating model
+
