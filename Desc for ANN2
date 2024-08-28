@@ -1,0 +1,1 @@
+Customer churn refers to the rate at which customers stop doing business with an entity. Predicting churn is crucial for businesses because retaining existing customers is often more cost-effective than acquiring new ones. In this article, I have build a churn prediction model using a simple artificial neural network (ANN).
